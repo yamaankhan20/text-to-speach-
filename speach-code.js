@@ -1,3 +1,5 @@
+<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/915932/articulate.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
 <div class="articulate-area">
 <!--     <button onclick="speak('all')">Speak All</button>
     <button onclick="speak('intro')">Speak Intro</button>
